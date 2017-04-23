@@ -1,0 +1,9 @@
+.DS_Store
+
+.idea/
+
+venv/
+*.pyc
+
+experiment_1/*.txt
+experiment_1/blocks/*.txt
