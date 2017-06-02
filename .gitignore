@@ -7,3 +7,4 @@ venv/
 
 experiment_1/*.txt
 experiment_1/blocks/*.txt
+experiment_1/ngrams/*.txt
