@@ -5,6 +5,6 @@
 venv/
 *.pyc
 
-experiment_1/*.txt
-experiment_1/blocks/*.txt
-experiment_1/ngrams/*.txt
+experiments/*.txt
+experiments/blocks/*.txt
+experiments/ngrams/*.txt
